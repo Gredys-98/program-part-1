@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\bin\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.exe
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\bin\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.deps.json
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\bin\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\bin\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\bin\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.dll
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\bin\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.pdb
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.dll
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.pdb
+C:\Users\Gredy\Desktop\tarea programas\clacular horas trabajadas de obrero\obj\Debug\netcoreapp3.1\clacular horas trabajadas de obrero.genruntimeconfig.cache

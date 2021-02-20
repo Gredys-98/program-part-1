@@ -1,0 +1,13 @@
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\bin\Debug\netcoreapp3.1\Determinar si un  numero es primo.exe
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\bin\Debug\netcoreapp3.1\Determinar si un  numero es primo.deps.json
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\bin\Debug\netcoreapp3.1\Determinar si un  numero es primo.runtimeconfig.json
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\bin\Debug\netcoreapp3.1\Determinar si un  numero es primo.runtimeconfig.dev.json
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\bin\Debug\netcoreapp3.1\Determinar si un  numero es primo.dll
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\bin\Debug\netcoreapp3.1\Determinar si un  numero es primo.pdb
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.csprojAssemblyReference.cache
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.AssemblyInfoInputs.cache
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.AssemblyInfo.cs
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.dll
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.pdb
+C:\Users\Gredy\source\repos\Determinar si un  numero es primo\obj\Debug\netcoreapp3.1\Determinar si un  numero es primo.genruntimeconfig.cache

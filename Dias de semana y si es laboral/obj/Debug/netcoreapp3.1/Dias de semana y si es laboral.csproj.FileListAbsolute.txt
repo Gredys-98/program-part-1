@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\bin\Debug\netcoreapp3.1\Dias de semana y si es laboral.exe
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\bin\Debug\netcoreapp3.1\Dias de semana y si es laboral.deps.json
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\bin\Debug\netcoreapp3.1\Dias de semana y si es laboral.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\bin\Debug\netcoreapp3.1\Dias de semana y si es laboral.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\bin\Debug\netcoreapp3.1\Dias de semana y si es laboral.dll
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\bin\Debug\netcoreapp3.1\Dias de semana y si es laboral.pdb
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.dll
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.pdb
+C:\Users\Gredy\Desktop\tarea programas\Dias de semana y si es laboral\obj\Debug\netcoreapp3.1\Dias de semana y si es laboral.genruntimeconfig.cache
